@@ -1,0 +1,37 @@
+ 
+  .cards {
+    /* position: absolute; */
+    /* display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    height: 400px; */
+    width: 300px;
+  }
+  
+  .card {
+    display: flex;
+    justify-content: space-between;
+  
+    height: 60px;
+    background: #ffffff;
+  }
+
+
+  
+  .title-book {
+    font-family: "Montserrat";
+    font-style: normal;
+    /* font-weight: 600; */
+    font-size: 11px;
+    padding: 0;
+    margin: auto;
+    color: #000000;
+  }
+ .h3, .p{
+    margin: 0;
+    text-align: center;
+ 
+  }
+  
+
+  

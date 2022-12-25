@@ -1,0 +1,20 @@
+.books {
+  position: relative;
+
+  .books__title {
+    margin: 67px 0;
+    font-size: 34px;
+    font-weight: 600;
+  }
+
+  .next {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+  }
+
+  .back {
+    position: absolute;
+    top: 50%;
+  }
+}
